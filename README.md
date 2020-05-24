@@ -15,7 +15,7 @@
 
 This project was developed with the technologies:
 
--  [Visual Studio Code][https://code.visualstudio.com/]
+-  [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :information_source: How To Use
 
