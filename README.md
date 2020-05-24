@@ -40,4 +40,4 @@ $ yarn start
 
 <p align="center">Made with :heart:</p>
 <p align="center">By Luiz Paulo Gonçalves</p>
-<p align="center">:wave: [Linkedin](https://www.linkedin.com/in/luiz-paulo)</p>
+<p align="center"> :wave: [Linkedin](https://www.linkedin.com/in/luiz-paulo/)</p>
